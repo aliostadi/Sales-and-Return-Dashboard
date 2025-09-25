@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales & Returns Dashboard (Excel · Power Query · Power Pivot · DAX)
 
 An end-to-end BI project built entirely in Excel:
@@ -58,3 +59,6 @@ Sample datasets (synthetic) are in `src/data/`. No PII or sensitive info.
 ## 📝 License
 
 MIT (see `LICENSE`).
+=======
+# Sales-and-Return-Dashboard
+>>>>>>> 4c8c8755330fa60bb8800b0a2614dcecf9f74a58
