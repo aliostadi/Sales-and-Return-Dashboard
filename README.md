@@ -8,9 +8,9 @@ An end-to-end BI project built entirely in Excel:
 - Interactive dashboard with slicers
 
 ## 📸 Screenshots
-![Dashboard](C:\Users\msi\Desktop\پروژه ها\DataEngBI\retail_raw_csvs\src\docs\README_images/dashboard-hero.png)
+![Dashboard](src/docs/README_images/dashboard-hero.png)
 
-![Model Diagram](C:\Users\msi\Desktop\پروژه ها\DataEngBI\retail_raw_csvs\src\docs\README_images/model-diagram.png)
+![Model Diagram](src/docs/README_images/model-diagram.png)
 
 ## 🧱 Data Model (high level)
 - Facts: `Fact_Order`, `Fact_OrderLine`, `Fact_Return`, `Fact_InventoryMovement`
