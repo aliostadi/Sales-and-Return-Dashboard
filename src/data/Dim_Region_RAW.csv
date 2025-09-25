@@ -1,0 +1,176 @@
+RegionID,Country,State,City
+1,Germany,region-1,City-1-1
+2,Germany,region-1,City-1-2
+3,Germany,region-1,City-1-3
+4,Germany,region-1,City-1-4
+5,Germany,region-1,City-1-5
+6,Germany,region-2,City-2-1
+7,Germany,region-2,City-2-2
+8,Germany,region-2,City-2-3
+9,Germany,region-2,City-2-4
+10,Germany,region-2,City-2-5
+11,Germany,region-3,City-3-1
+12,Germany,region-3,City-3-2
+13,Germany,region-3,City-3-3
+14,Germany,region-3,City-3-4
+15,Germany  ,region-3,City-3-5
+16,Germany,region-4,City-4-1
+17,Germany,region-4,City-4-2
+18,Germany,region-4,City-4-3
+19,Germany,region-4,City-4-4
+20,Germany  ,region-4,City-4-5
+21,Germany,region-5,City-5-1
+22,Germany,region-5,City-5-2
+23,Germany,region-5,City-5-3
+24,Germany,region-5,City-5-4
+25,Germany,region-5,City-5-5
+26,France,region-1,City-1-1
+27,France,region-1,City-1-2
+28,France,region-1,City-1-3
+29,France,region-1,City-1-4
+30,France,region-1,City-1-5
+31,France,region-2,City-2-1
+32,France,region-2,City-2-2
+33,France,region-2,City-2-3
+34,France,region-2,City-2-4
+35,France,region-2,City-2-5
+36,France,region-3,City-3-1
+37,France,region-3,City-3-2
+38,France,region-3,City-3-3
+39,France,region-3,City-3-4
+40,France,region-3,City-3-5
+41,France,region-4,City-4-1
+42,France,region-4,City-4-2
+43,France,region-4,City-4-3
+44,France,region-4,City-4-4
+45,France,region-4,City-4-5
+46,France,region-5,City-5-1
+47,France,region-5,City-5-2
+48,France,region-5,City-5-3
+49,France,region-5,City-5-4
+50,France,region-5,City-5-5
+51,United Kingdom,region-1,City-1-1
+52,United Kingdom,region-1,City-1-2
+53,United Kingdom,region-1,City-1-3
+54,United Kingdom  ,region-1,City-1-4
+55,United Kingdom,region-1,City-1-5
+56,United Kingdom,region-2,City-2-1
+57,United Kingdom,region-2,City-2-2
+58,United Kingdom,region-2,City-2-3
+59,United Kingdom,region-2,City-2-4
+60,United Kingdom,region-2,City-2-5
+61,United Kingdom,region-3,City-3-1
+62,United Kingdom,region-3,City-3-2
+63,United Kingdom,region-3,City-3-3
+64,United Kingdom,region-3,City-3-4
+65,United Kingdom,region-3,City-3-5
+66,United Kingdom,region-4,City-4-1
+67,United Kingdom,region-4,City-4-2
+68,United Kingdom,region-4,City-4-3
+69,United Kingdom,region-4,City-4-4
+70,United Kingdom  ,region-4,City-4-5
+71,United Kingdom,region-5,City-5-1
+72,United Kingdom,region-5,City-5-2
+73,United Kingdom,region-5,City-5-3
+74,United Kingdom,region-5,City-5-4
+75,United Kingdom,region-5,City-5-5
+76,Spain,region-1,City-1-1
+77,Spain,region-1,City-1-2
+78,Spain,region-1,City-1-3
+79,Spain,region-1,City-1-4
+80,Spain,region-1,City-1-5
+81,Spain,region-2,City-2-1
+82,Spain,region-2,City-2-2
+83,Spain,region-2,City-2-3
+84,Spain,region-2,City-2-4
+85,Spain,region-2,City-2-5
+86,Spain,region-3,City-3-1
+87,Spain,region-3,City-3-2
+88,Spain,region-3,City-3-3
+89,Spain,region-3,City-3-4
+90,Spain,region-3,City-3-5
+91,Spain,region-4,City-4-1
+92,Spain,region-4,City-4-2
+93,Spain,region-4,City-4-3
+94,Spain  ,region-4,City-4-4
+95,Spain,region-4,City-4-5
+96,Spain,region-5,City-5-1
+97,Spain,region-5,City-5-2
+98,Spain,region-5,City-5-3
+99,Spain,region-5,City-5-4
+100,Spain,region-5,City-5-5
+101,Italy,region-1,City-1-1
+102,Italy,region-1,City-1-2
+103,Italy,region-1,City-1-3
+104,Italy,region-1,City-1-4
+105,Italy,region-1,City-1-5
+106,Italy,region-2,City-2-1
+107,Italy  ,region-2,City-2-2
+108,Italy,region-2,City-2-3
+109,Italy,region-2,City-2-4
+110,Italy,region-2,City-2-5
+111,Italy,region-3,City-3-1
+112,Italy,region-3,City-3-2
+113,Italy  ,region-3,City-3-3
+114,Italy,region-3,City-3-4
+115,Italy  ,region-3,City-3-5
+116,Italy,region-4,City-4-1
+117,Italy,region-4,City-4-2
+118,Italy,region-4,City-4-3
+119,Italy,region-4,City-4-4
+120,Italy,region-4,City-4-5
+121,Italy,region-5,City-5-1
+122,Italy,region-5,City-5-2
+123,Italy,region-5,City-5-3
+124,Italy,region-5,City-5-4
+125,Italy,region-5,City-5-5
+126,Netherlands,region-1,City-1-1
+127,Netherlands  ,region-1,City-1-2
+128,Netherlands,region-1,City-1-3
+129,Netherlands,region-1,City-1-4
+130,Netherlands,region-1,City-1-5
+131,Netherlands,region-2,City-2-1
+132,Netherlands,region-2,City-2-2
+133,Netherlands,region-2,City-2-3
+134,Netherlands,region-2,City-2-4
+135,Netherlands,region-2,City-2-5
+136,Netherlands  ,region-3,City-3-1
+137,Netherlands,region-3,City-3-2
+138,Netherlands,region-3,City-3-3
+139,Netherlands,region-3,City-3-4
+140,Netherlands,region-3,City-3-5
+141,Netherlands,region-4,City-4-1
+142,Netherlands,region-4,City-4-2
+143,Netherlands,region-4,City-4-3
+144,Netherlands,region-4,City-4-4
+145,Netherlands,region-4,City-4-5
+146,Netherlands,region-5,City-5-1
+147,Netherlands,region-5,City-5-2
+148,Netherlands,region-5,City-5-3
+149,Netherlands,region-5,City-5-4
+150,Netherlands,region-5,City-5-5
+151,Poland,region-1,City-1-1
+152,Poland,region-1,City-1-2
+153,Poland,region-1,City-1-3
+154,Poland,region-1,City-1-4
+155,Poland,region-1,City-1-5
+156,Poland,region-2,City-2-1
+157,Poland,region-2,City-2-2
+158,Poland,region-2,City-2-3
+159,Poland,region-2,City-2-4
+160,Poland,region-2,City-2-5
+161,Poland,region-3,City-3-1
+162,Poland,region-3,City-3-2
+163,Poland,region-3,City-3-3
+164,Poland,region-3,City-3-4
+165,Poland,region-3,City-3-5
+166,Poland,region-4,City-4-1
+167,Poland,region-4,City-4-2
+168,Poland,region-4,City-4-3
+169,Poland,region-4,City-4-4
+170,Poland,region-4,City-4-5
+171,Poland,region-5,City-5-1
+172,Poland,region-5,City-5-2
+173,Poland,region-5,City-5-3
+174,Poland,region-5,City-5-4
+175,Poland,region-5,City-5-5

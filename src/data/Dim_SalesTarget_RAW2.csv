@@ -1,0 +1,673 @@
+YearMonth,Country,Category,TargetRevenue
+2024-01,Germany,Home & Kitchen,3339.6
+2024-01,United Kingdom,Home & Kitchen,3036.0
+2024-01,France,Home & Kitchen,2277.0
+2024-01,Spain,Home & Kitchen,1821.6
+2024-01,Italy,Home & Kitchen,1821.6
+2024-01,Netherlands,Home & Kitchen,1518.0
+2024-01,Poland,Home & Kitchen,1366.2
+2024-01,Germany,Sports,2327.6
+2024-01,United Kingdom,Sports,2116.0
+2024-01,France,Sports,1587.0
+2024-01,Spain,Sports,1269.6
+2024-01,Italy,Sports,1269.6
+2024-01,Netherlands,Sports,1058.0
+2024-01,Poland,Sports,952.2
+2024-01,Germany,Office,5009.4
+2024-01,United Kingdom,Office,4554.0
+2024-01,France,Office,3415.5
+2024-01,Spain,Office,2732.4
+2024-01,Italy,Office,2732.4
+2024-01,Netherlands,Office,2277.0
+2024-01,Poland,Office,2049.3
+2024-01,Germany,Electronics,5009.4
+2024-01,United Kingdom,Electronics,4554.0
+2024-01,France,Electronics,3415.5
+2024-01,Spain,Electronics,2732.4
+2024-01,Italy,Electronics,2732.4
+2024-01,Netherlands,Electronics,2277.0
+2024-01,Poland,Electronics,2049.3
+2024-02,Germany,Home & Kitchen,2681.8
+2024-02,United Kingdom,Home & Kitchen,2438.0
+2024-02,France,Home & Kitchen,1828.5
+2024-02,Spain,Home & Kitchen,1462.8
+2024-02,Italy,Home & Kitchen,1462.8
+2024-02,Netherlands,Home & Kitchen,1219.0
+2024-02,Poland,Home & Kitchen,1097.1
+2024-02,Germany,Sports,4326.3
+2024-02,United Kingdom,Sports,3933.0
+2024-02,France,Sports,2949.75
+2024-02,Spain,Sports,2359.8
+2024-02,Italy,Sports,2359.8
+2024-02,Netherlands,Sports,1966.5
+2024-02,Poland,Sports,1769.85
+2024-02,Germany,Office,2681.8
+2024-02,United Kingdom,Office,2438.0
+2024-02,France,Office,1828.5
+2024-02,Spain,Office,1462.8
+2024-02,Italy,Office,1462.8
+2024-02,Netherlands,Office,1219.0
+2024-02,Poland,Office,1097.1
+2024-02,Germany,Electronics,4781.7
+2024-02,United Kingdom,Electronics,4347.0
+2024-02,France,Electronics,3260.25
+2024-02,Spain,Electronics,2608.2
+2024-02,Italy,Electronics,2608.2
+2024-02,Netherlands,Electronics,2173.5
+2024-02,Poland,Electronics,1956.15
+2024-03,Germany,Home & Kitchen,4022.7
+2024-03,United Kingdom,Home & Kitchen,3657.0
+2024-03,France,Home & Kitchen,2742.75
+2024-03,Spain,Home & Kitchen,2194.2
+2024-03,Italy,Home & Kitchen,2194.2
+2024-03,Netherlands,Home & Kitchen,1828.5
+2024-03,Poland,Home & Kitchen,1645.65
+2024-03,Germany,Sports,3693.8
+2024-03,United Kingdom,Sports,3358.0
+2024-03,France,Sports,2518.5
+2024-03,Spain,Sports,2014.8
+2024-03,Italy,Sports,2014.8
+2024-03,Netherlands,Sports,1679.0
+2024-03,Poland,Sports,1511.1
+2024-03,Germany,Office,3111.9
+2024-03,United Kingdom,Office,2829.0
+2024-03,France,Office,2121.75
+2024-03,Spain,Office,1697.4
+2024-03,Italy,Office,1697.4
+2024-03,Netherlands,Office,1414.5
+2024-03,Poland,Office,1273.05
+2024-03,Germany,Electronics,1771.0
+2024-03,United Kingdom,Electronics,1610.0
+2024-03,France,Electronics,1207.5
+2024-03,Spain,Electronics,966.0
+2024-03,Italy,Electronics,966.0
+2024-03,Netherlands,Electronics,805.0
+2024-03,Poland,Electronics,724.5
+2024-04,Germany,Home & Kitchen,2783.0
+2024-04,United Kingdom,Home & Kitchen,2530.0
+2024-04,France,Home & Kitchen,1897.5
+2024-04,Spain,Home & Kitchen,1518.0
+2024-04,Italy,Home & Kitchen,1518.0
+2024-04,Netherlands,Home & Kitchen,1265.0
+2024-04,Poland,Home & Kitchen,1138.5
+2024-04,Germany,Sports,4402.2
+2024-04,United Kingdom,Sports,4002.0
+2024-04,France,Sports,3001.5
+2024-04,Spain,Sports,2401.2
+2024-04,Italy,Sports,2401.2
+2024-04,Netherlands,Sports,2001.0
+2024-04,Poland,Sports,1800.9
+2024-04,Germany,Office,1518.0
+2024-04,United Kingdom,Office,1380.0
+2024-04,France,Office,1035.0
+2024-04,Spain,Office,828.0
+2024-04,Italy,Office,828.0
+2024-04,Netherlands,Office,690.0
+2024-04,Poland,Office,621.0
+2024-04,Germany,Electronics,5009.4
+2024-04,United Kingdom,Electronics,4554.0
+2024-04,France,Electronics,3415.5
+2024-04,Spain,Electronics,2732.4
+2024-04,Italy,Electronics,2732.4
+2024-04,Netherlands,Electronics,2277.0
+2024-04,Poland,Electronics,2049.3
+2024-05,Germany,Home & Kitchen,3111.9
+2024-05,United Kingdom,Home & Kitchen,2829.0
+2024-05,France,Home & Kitchen,2121.75
+2024-05,Spain,Home & Kitchen,1697.4
+2024-05,Italy,Home & Kitchen,1697.4
+2024-05,Netherlands,Home & Kitchen,1414.5
+2024-05,Poland,Home & Kitchen,1273.05
+2024-05,Germany,Sports,5034.7
+2024-05,United Kingdom,Sports,4577.0
+2024-05,France,Sports,3432.75
+2024-05,Spain,Sports,2746.2
+2024-05,Italy,Sports,2746.2
+2024-05,Netherlands,Sports,2288.5
+2024-05,Poland,Sports,2059.65
+2024-05,Germany,Office,4073.3
+2024-05,United Kingdom,Office,3703.0
+2024-05,France,Office,2777.25
+2024-05,Spain,Office,2221.8
+2024-05,Italy,Office,2221.8
+2024-05,Netherlands,Office,1851.5
+2024-05,Poland,Office,1666.35
+2024-05,Germany,Electronics,3795.0
+2024-05,United Kingdom,Electronics,3450.0
+2024-05,France,Electronics,2587.5
+2024-05,Spain,Electronics,2070.0
+2024-05,Italy,Electronics,2070.0
+2024-05,Netherlands,Electronics,1725.0
+2024-05,Poland,Electronics,1552.5
+2024-06,Germany,Home & Kitchen,3896.2
+2024-06,United Kingdom,Home & Kitchen,3542.0
+2024-06,France,Home & Kitchen,2656.5
+2024-06,Spain,Home & Kitchen,2125.2
+2024-06,Italy,Home & Kitchen,2125.2
+2024-06,Netherlands,Home & Kitchen,1771.0
+2024-06,Poland,Home & Kitchen,1593.9
+2024-06,Germany,Sports,1543.3
+2024-06,United Kingdom,Sports,1403.0
+2024-06,France,Sports,1052.25
+2024-06,Spain,Sports,841.8
+2024-06,Italy,Sports,841.8
+2024-06,Netherlands,Sports,701.5
+2024-06,Poland,Sports,631.35
+2024-06,Germany,Office,2049.3
+2024-06,United Kingdom,Office,1863.0
+2024-06,France,Office,1397.25
+2024-06,Spain,Office,1117.8
+2024-06,Italy,Office,1117.8
+2024-06,Netherlands,Office,931.5
+2024-06,Poland,Office,838.35
+2024-06,Germany,Electronics,4427.5
+2024-06,United Kingdom,Electronics,4025.0
+2024-06,France,Electronics,3018.75
+2024-06,Spain,Electronics,2415.0
+2024-06,Italy,Electronics,2415.0
+2024-06,Netherlands,Electronics,2012.5
+2024-06,Poland,Electronics,1811.25
+2024-07,Germany,Home & Kitchen,3744.4
+2024-07,United Kingdom,Home & Kitchen,3404.0
+2024-07,France,Home & Kitchen,2553.0
+2024-07,Spain,Home & Kitchen,2042.4
+2024-07,Italy,Home & Kitchen,2042.4
+2024-07,Netherlands,Home & Kitchen,1702.0
+2024-07,Poland,Home & Kitchen,1531.8
+2024-07,Germany,Sports,1948.1
+2024-07,United Kingdom,Sports,1771.0
+2024-07,France,Sports,1328.25
+2024-07,Spain,Sports,1062.6
+2024-07,Italy,Sports,1062.6
+2024-07,Netherlands,Sports,885.5
+2024-07,Poland,Sports,796.95
+2024-07,Germany,Office,3769.7
+2024-07,United Kingdom,Office,3427.0
+2024-07,France,Office,2570.25
+2024-07,Spain,Office,2056.2
+2024-07,Italy,Office,2056.2
+2024-07,Netherlands,Office,1713.5
+2024-07,Poland,Office,1542.15
+2024-07,Germany,Electronics,2024.0
+2024-07,United Kingdom,Electronics,1840.0
+2024-07,France,Electronics,1380.0
+2024-07,Spain,Electronics,1104.0
+2024-07,Italy,Electronics,1104.0
+2024-07,Netherlands,Electronics,920.0
+2024-07,Poland,Electronics,828.0
+2024-08,Germany,Home & Kitchen,1543.3
+2024-08,United Kingdom,Home & Kitchen,1403.0
+2024-08,France,Home & Kitchen,1052.25
+2024-08,Spain,Home & Kitchen,841.8
+2024-08,Italy,Home & Kitchen,841.8
+2024-08,Netherlands,Home & Kitchen,701.5
+2024-08,Poland,Home & Kitchen,631.35
+2024-08,Germany,Sports,2352.9
+2024-08,United Kingdom,Sports,2139.0
+2024-08,France,Sports,1604.25
+2024-08,Spain,Sports,1283.4
+2024-08,Italy,Sports,1283.4
+2024-08,Netherlands,Sports,1069.5
+2024-08,Poland,Sports,962.55
+2024-08,Germany,Office,2985.4
+2024-08,United Kingdom,Office,2714.0
+2024-08,France,Office,2035.5
+2024-08,Spain,Office,1628.4
+2024-08,Italy,Office,1628.4
+2024-08,Netherlands,Office,1357.0
+2024-08,Poland,Office,1221.3
+2024-08,Germany,Electronics,3946.8
+2024-08,United Kingdom,Electronics,3588.0
+2024-08,France,Electronics,2691.0
+2024-08,Spain,Electronics,2152.8
+2024-08,Italy,Electronics,2152.8
+2024-08,Netherlands,Electronics,1794.0
+2024-08,Poland,Electronics,1614.6
+2024-09,Germany,Home & Kitchen,3719.1
+2024-09,United Kingdom,Home & Kitchen,3381.0
+2024-09,France,Home & Kitchen,2535.75
+2024-09,Spain,Home & Kitchen,2028.6
+2024-09,Italy,Home & Kitchen,2028.6
+2024-09,Netherlands,Home & Kitchen,1690.5
+2024-09,Poland,Home & Kitchen,1521.45
+2024-09,Germany,Sports,2757.7
+2024-09,United Kingdom,Sports,2507.0
+2024-09,France,Sports,1880.25
+2024-09,Spain,Sports,1504.2
+2024-09,Italy,Sports,1504.2
+2024-09,Netherlands,Sports,1253.5
+2024-09,Poland,Sports,1128.15
+2024-09,Germany,Office,1948.1
+2024-09,United Kingdom,Office,1771.0
+2024-09,France,Office,1328.25
+2024-09,Spain,Office,1062.6
+2024-09,Italy,Office,1062.6
+2024-09,Netherlands,Office,885.5
+2024-09,Poland,Office,796.95
+2024-09,Germany,Electronics,4250.4
+2024-09,United Kingdom,Electronics,3864.0
+2024-09,France,Electronics,2898.0
+2024-09,Spain,Electronics,2318.4
+2024-09,Italy,Electronics,2318.4
+2024-09,Netherlands,Electronics,1932.0
+2024-09,Poland,Electronics,1738.8
+2024-10,Germany,Home & Kitchen,2099.9
+2024-10,United Kingdom,Home & Kitchen,1909.0
+2024-10,France,Home & Kitchen,1431.75
+2024-10,Spain,Home & Kitchen,1145.4
+2024-10,Italy,Home & Kitchen,1145.4
+2024-10,Netherlands,Home & Kitchen,954.5
+2024-10,Poland,Home & Kitchen,859.05
+2024-10,Germany,Sports,3263.7
+2024-10,United Kingdom,Sports,2967.0
+2024-10,France,Sports,2225.25
+2024-10,Spain,Sports,1780.2
+2024-10,Italy,Sports,1780.2
+2024-10,Netherlands,Sports,1483.5
+2024-10,Poland,Sports,1335.15
+2024-10,Germany,Office,3693.8
+2024-10,United Kingdom,Office,3358.0
+2024-10,France,Office,2518.5
+2024-10,Spain,Office,2014.8
+2024-10,Italy,Office,2014.8
+2024-10,Netherlands,Office,1679.0
+2024-10,Poland,Office,1511.1
+2024-10,Germany,Electronics,1872.2
+2024-10,United Kingdom,Electronics,1702.0
+2024-10,France,Electronics,1276.5
+2024-10,Spain,Electronics,1021.2
+2024-10,Italy,Electronics,1021.2
+2024-10,Netherlands,Electronics,851.0
+2024-10,Poland,Electronics,765.9
+2024-11,Germany,Home & Kitchen,4731.1
+2024-11,United Kingdom,Home & Kitchen,4301.0
+2024-11,France,Home & Kitchen,3225.75
+2024-11,Spain,Home & Kitchen,2580.6
+2024-11,Italy,Home & Kitchen,2580.6
+2024-11,Netherlands,Home & Kitchen,2150.5
+2024-11,Poland,Home & Kitchen,1935.45
+2024-11,Germany,Sports,2302.3
+2024-11,United Kingdom,Sports,2093.0
+2024-11,France,Sports,1569.75
+2024-11,Spain,Sports,1255.8
+2024-11,Italy,Sports,1255.8
+2024-11,Netherlands,Sports,1046.5
+2024-11,Poland,Sports,941.85
+2024-11,Germany,Office,2884.2
+2024-11,United Kingdom,Office,2622.0
+2024-11,France,Office,1966.5
+2024-11,Spain,Office,1573.2
+2024-11,Italy,Office,1573.2
+2024-11,Netherlands,Office,1311.0
+2024-11,Poland,Office,1179.9
+2024-11,Germany,Electronics,3870.9
+2024-11,United Kingdom,Electronics,3519.0
+2024-11,France,Electronics,2639.25
+2024-11,Spain,Electronics,2111.4
+2024-11,Italy,Electronics,2111.4
+2024-11,Netherlands,Electronics,1759.5
+2024-11,Poland,Electronics,1583.55
+2024-12,Germany,Home & Kitchen,2504.7
+2024-12,United Kingdom,Home & Kitchen,2277.0
+2024-12,France,Home & Kitchen,1707.75
+2024-12,Spain,Home & Kitchen,1366.2
+2024-12,Italy,Home & Kitchen,1366.2
+2024-12,Netherlands,Home & Kitchen,1138.5
+2024-12,Poland,Home & Kitchen,1024.65
+2024-12,Germany,Sports,2681.8
+2024-12,United Kingdom,Sports,2438.0
+2024-12,France,Sports,1828.5
+2024-12,Spain,Sports,1462.8
+2024-12,Italy,Sports,1462.8
+2024-12,Netherlands,Sports,1219.0
+2024-12,Poland,Sports,1097.1
+2024-12,Germany,Office,1796.3
+2024-12,United Kingdom,Office,1633.0
+2024-12,France,Office,1224.75
+2024-12,Spain,Office,979.8
+2024-12,Italy,Office,979.8
+2024-12,Netherlands,Office,816.5
+2024-12,Poland,Office,734.85
+2024-12,Germany,Electronics,4933.5
+2024-12,United Kingdom,Electronics,4485.0
+2024-12,France,Electronics,3363.75
+2024-12,Spain,Electronics,2691.0
+2024-12,Italy,Electronics,2691.0
+2024-12,Netherlands,Electronics,2242.5
+2024-12,Poland,Electronics,2018.25
+2025-01,Germany,Home & Kitchen,3719.1
+2025-01,United Kingdom,Home & Kitchen,3381.0
+2025-01,France,Home & Kitchen,2535.75
+2025-01,Spain,Home & Kitchen,2028.6
+2025-01,Italy,Home & Kitchen,2028.6
+2025-01,Netherlands,Home & Kitchen,1690.5
+2025-01,Poland,Home & Kitchen,1521.45
+2025-01,Germany,Sports,2378.2
+2025-01,United Kingdom,Sports,2162.0
+2025-01,France,Sports,1621.5
+2025-01,Spain,Sports,1297.2
+2025-01,Italy,Sports,1297.2
+2025-01,Netherlands,Sports,1081.0
+2025-01,Poland,Sports,972.9
+2025-01,Germany,Office,3516.7
+2025-01,United Kingdom,Office,3197.0
+2025-01,France,Office,2397.75
+2025-01,Spain,Office,1918.2
+2025-01,Italy,Office,1918.2
+2025-01,Netherlands,Office,1598.5
+2025-01,Poland,Office,1438.65
+2025-01,Germany,Electronics,1442.1
+2025-01,United Kingdom,Electronics,1311.0
+2025-01,France,Electronics,983.25
+2025-01,Spain,Electronics,786.6
+2025-01,Italy,Electronics,786.6
+2025-01,Netherlands,Electronics,655.5
+2025-01,Poland,Electronics,589.95
+2025-02,Germany,Home & Kitchen,4528.7
+2025-02,United Kingdom,Home & Kitchen,4117.0
+2025-02,France,Home & Kitchen,3087.75
+2025-02,Spain,Home & Kitchen,2470.2
+2025-02,Italy,Home & Kitchen,2470.2
+2025-02,Netherlands,Home & Kitchen,2058.5
+2025-02,Poland,Home & Kitchen,1852.65
+2025-02,Germany,Sports,2251.7
+2025-02,United Kingdom,Sports,2047.0
+2025-02,France,Sports,1535.25
+2025-02,Spain,Sports,1228.2
+2025-02,Italy,Sports,1228.2
+2025-02,Netherlands,Sports,1023.5
+2025-02,Poland,Sports,921.15
+2025-02,Germany,Office,1518.0
+2025-02,United Kingdom,Office,1380.0
+2025-02,France,Office,1035.0
+2025-02,Spain,Office,828.0
+2025-02,Italy,Office,828.0
+2025-02,Netherlands,Office,690.0
+2025-02,Poland,Office,621.0
+2025-02,Germany,Electronics,4756.4
+2025-02,United Kingdom,Electronics,4324.0
+2025-02,France,Electronics,3243.0
+2025-02,Spain,Electronics,2594.4
+2025-02,Italy,Electronics,2594.4
+2025-02,Netherlands,Electronics,2162.0
+2025-02,Poland,Electronics,1945.8
+2025-03,Germany,Home & Kitchen,2681.8
+2025-03,United Kingdom,Home & Kitchen,2438.0
+2025-03,France,Home & Kitchen,1828.5
+2025-03,Spain,Home & Kitchen,1462.8
+2025-03,Italy,Home & Kitchen,1462.8
+2025-03,Netherlands,Home & Kitchen,1219.0
+2025-03,Poland,Home & Kitchen,1097.1
+2025-03,Germany,Sports,3997.4
+2025-03,United Kingdom,Sports,3634.0
+2025-03,France,Sports,2725.5
+2025-03,Spain,Sports,2180.4
+2025-03,Italy,Sports,2180.4
+2025-03,Netherlands,Sports,1817.0
+2025-03,Poland,Sports,1635.3
+2025-03,Germany,Office,4604.6
+2025-03,United Kingdom,Office,4186.0
+2025-03,France,Office,3139.5
+2025-03,Spain,Office,2511.6
+2025-03,Italy,Office,2511.6
+2025-03,Netherlands,Office,2093.0
+2025-03,Poland,Office,1883.7
+2025-03,Germany,Electronics,5009.4
+2025-03,United Kingdom,Electronics,4554.0
+2025-03,France,Electronics,3415.5
+2025-03,Spain,Electronics,2732.4
+2025-03,Italy,Electronics,2732.4
+2025-03,Netherlands,Electronics,2277.0
+2025-03,Poland,Electronics,2049.3
+2025-04,Germany,Home & Kitchen,1720.4
+2025-04,United Kingdom,Home & Kitchen,1564.0
+2025-04,France,Home & Kitchen,1173.0
+2025-04,Spain,Home & Kitchen,938.4
+2025-04,Italy,Home & Kitchen,938.4
+2025-04,Netherlands,Home & Kitchen,782.0
+2025-04,Poland,Home & Kitchen,703.8
+2025-04,Germany,Sports,3719.1
+2025-04,United Kingdom,Sports,3381.0
+2025-04,France,Sports,2535.75
+2025-04,Spain,Sports,2028.6
+2025-04,Italy,Sports,2028.6
+2025-04,Netherlands,Sports,1690.5
+2025-04,Poland,Sports,1521.45
+2025-04,Germany,Office,3567.3
+2025-04,United Kingdom,Office,3243.0
+2025-04,France,Office,2432.25
+2025-04,Spain,Office,1945.8
+2025-04,Italy,Office,1945.8
+2025-04,Netherlands,Office,1621.5
+2025-04,Poland,Office,1459.35
+2025-04,Germany,Electronics,2074.6
+2025-04,United Kingdom,Electronics,1886.0
+2025-04,France,Electronics,1414.5
+2025-04,Spain,Electronics,1131.6
+2025-04,Italy,Electronics,1131.6
+2025-04,Netherlands,Electronics,943.0
+2025-04,Poland,Electronics,848.7
+2025-05,Germany,Home & Kitchen,1872.2
+2025-05,United Kingdom,Home & Kitchen,1702.0
+2025-05,France,Home & Kitchen,1276.5
+2025-05,Spain,Home & Kitchen,1021.2
+2025-05,Italy,Home & Kitchen,1021.2
+2025-05,Netherlands,Home & Kitchen,851.0
+2025-05,Poland,Home & Kitchen,765.9
+2025-05,Germany,Sports,4882.9
+2025-05,United Kingdom,Sports,4439.0
+2025-05,France,Sports,3329.25
+2025-05,Spain,Sports,2663.4
+2025-05,Italy,Sports,2663.4
+2025-05,Netherlands,Sports,2219.5
+2025-05,Poland,Sports,1997.55
+2025-05,Germany,Office,1846.9
+2025-05,United Kingdom,Office,1679.0
+2025-05,France,Office,1259.25
+2025-05,Spain,Office,1007.4
+2025-05,Italy,Office,1007.4
+2025-05,Netherlands,Office,839.5
+2025-05,Poland,Office,755.55
+2025-05,Germany,Electronics,3415.5
+2025-05,United Kingdom,Electronics,3105.0
+2025-05,France,Electronics,2328.75
+2025-05,Spain,Electronics,1863.0
+2025-05,Italy,Electronics,1863.0
+2025-05,Netherlands,Electronics,1552.5
+2025-05,Poland,Electronics,1397.25
+2025-06,Germany,Home & Kitchen,2277.0
+2025-06,United Kingdom,Home & Kitchen,2070.0
+2025-06,France,Home & Kitchen,1552.5
+2025-06,Spain,Home & Kitchen,1242.0
+2025-06,Italy,Home & Kitchen,1242.0
+2025-06,Netherlands,Home & Kitchen,1035.0
+2025-06,Poland,Home & Kitchen,931.5
+2025-06,Germany,Sports,3415.5
+2025-06,United Kingdom,Sports,3105.0
+2025-06,France,Sports,2328.75
+2025-06,Spain,Sports,1863.0
+2025-06,Italy,Sports,1863.0
+2025-06,Netherlands,Sports,1552.5
+2025-06,Poland,Sports,1397.25
+2025-06,Germany,Office,3820.3
+2025-06,United Kingdom,Office,3473.0
+2025-06,France,Office,2604.75
+2025-06,Spain,Office,2083.8
+2025-06,Italy,Office,2083.8
+2025-06,Netherlands,Office,1736.5
+2025-06,Poland,Office,1562.85
+2025-06,Germany,Electronics,1442.1
+2025-06,United Kingdom,Electronics,1311.0
+2025-06,France,Electronics,983.25
+2025-06,Spain,Electronics,786.6
+2025-06,Italy,Electronics,786.6
+2025-06,Netherlands,Electronics,655.5
+2025-06,Poland,Electronics,589.95
+2025-07,Germany,Home & Kitchen,1492.7
+2025-07,United Kingdom,Home & Kitchen,1357.0
+2025-07,France,Home & Kitchen,1017.75
+2025-07,Spain,Home & Kitchen,814.2
+2025-07,Italy,Home & Kitchen,814.2
+2025-07,Netherlands,Home & Kitchen,678.5
+2025-07,Poland,Home & Kitchen,610.65
+2025-07,Germany,Sports,1340.9
+2025-07,United Kingdom,Sports,1219.0
+2025-07,France,Sports,914.25
+2025-07,Spain,Sports,731.4
+2025-07,Italy,Sports,731.4
+2025-07,Netherlands,Sports,609.5
+2025-07,Poland,Sports,548.55
+2025-07,Germany,Office,2707.1
+2025-07,United Kingdom,Office,2461.0
+2025-07,France,Office,1845.75
+2025-07,Spain,Office,1476.6
+2025-07,Italy,Office,1476.6
+2025-07,Netherlands,Office,1230.5
+2025-07,Poland,Office,1107.45
+2025-07,Germany,Electronics,3364.9
+2025-07,United Kingdom,Electronics,3059.0
+2025-07,France,Electronics,2294.25
+2025-07,Spain,Electronics,1835.4
+2025-07,Italy,Electronics,1835.4
+2025-07,Netherlands,Electronics,1529.5
+2025-07,Poland,Electronics,1376.55
+2025-08,Germany,Home & Kitchen,4832.3
+2025-08,United Kingdom,Home & Kitchen,4393.0
+2025-08,France,Home & Kitchen,3294.75
+2025-08,Spain,Home & Kitchen,2635.8
+2025-08,Italy,Home & Kitchen,2635.8
+2025-08,Netherlands,Home & Kitchen,2196.5
+2025-08,Poland,Home & Kitchen,1976.85
+2025-08,Germany,Sports,2251.7
+2025-08,United Kingdom,Sports,2047.0
+2025-08,France,Sports,1535.25
+2025-08,Spain,Sports,1228.2
+2025-08,Italy,Sports,1228.2
+2025-08,Netherlands,Sports,1023.5
+2025-08,Poland,Sports,921.15
+2025-08,Germany,Office,3314.3
+2025-08,United Kingdom,Office,3013.0
+2025-08,France,Office,2259.75
+2025-08,Spain,Office,1807.8
+2025-08,Italy,Office,1807.8
+2025-08,Netherlands,Office,1506.5
+2025-08,Poland,Office,1355.85
+2025-08,Germany,Electronics,3086.6
+2025-08,United Kingdom,Electronics,2806.0
+2025-08,France,Electronics,2104.5
+2025-08,Spain,Electronics,1683.6
+2025-08,Italy,Electronics,1683.6
+2025-08,Netherlands,Electronics,1403.0
+2025-08,Poland,Electronics,1262.7
+2025-09,Germany,Home & Kitchen,4832.3
+2025-09,United Kingdom,Home & Kitchen,4393.0
+2025-09,France,Home & Kitchen,3294.75
+2025-09,Spain,Home & Kitchen,2635.8
+2025-09,Italy,Home & Kitchen,2635.8
+2025-09,Netherlands,Home & Kitchen,2196.5
+2025-09,Poland,Home & Kitchen,1976.85
+2025-09,Germany,Sports,2504.7
+2025-09,United Kingdom,Sports,2277.0
+2025-09,France,Sports,1707.75
+2025-09,Spain,Sports,1366.2
+2025-09,Italy,Sports,1366.2
+2025-09,Netherlands,Sports,1138.5
+2025-09,Poland,Sports,1024.65
+2025-09,Germany,Office,3769.7
+2025-09,United Kingdom,Office,3427.0
+2025-09,France,Office,2570.25
+2025-09,Spain,Office,2056.2
+2025-09,Italy,Office,2056.2
+2025-09,Netherlands,Office,1713.5
+2025-09,Poland,Office,1542.15
+2025-09,Germany,Electronics,2049.3
+2025-09,United Kingdom,Electronics,1863.0
+2025-09,France,Electronics,1397.25
+2025-09,Spain,Electronics,1117.8
+2025-09,Italy,Electronics,1117.8
+2025-09,Netherlands,Electronics,931.5
+2025-09,Poland,Electronics,838.35
+2025-10,Germany,Home & Kitchen,2352.9
+2025-10,United Kingdom,Home & Kitchen,2139.0
+2025-10,France,Home & Kitchen,1604.25
+2025-10,Spain,Home & Kitchen,1283.4
+2025-10,Italy,Home & Kitchen,1283.4
+2025-10,Netherlands,Home & Kitchen,1069.5
+2025-10,Poland,Home & Kitchen,962.55
+2025-10,Germany,Sports,4174.5
+2025-10,United Kingdom,Sports,3795.0
+2025-10,France,Sports,2846.25
+2025-10,Spain,Sports,2277.0
+2025-10,Italy,Sports,2277.0
+2025-10,Netherlands,Sports,1897.5
+2025-10,Poland,Sports,1707.75
+2025-10,Germany,Office,2150.5
+2025-10,United Kingdom,Office,1955.0
+2025-10,France,Office,1466.25
+2025-10,Spain,Office,1173.0
+2025-10,Italy,Office,1173.0
+2025-10,Netherlands,Office,977.5
+2025-10,Poland,Office,879.75
+2025-10,Germany,Electronics,2884.2
+2025-10,United Kingdom,Electronics,2622.0
+2025-10,France,Electronics,1966.5
+2025-10,Spain,Electronics,1573.2
+2025-10,Italy,Electronics,1573.2
+2025-10,Netherlands,Electronics,1311.0
+2025-10,Poland,Electronics,1179.9
+2025-11,Germany,Home & Kitchen,3567.3
+2025-11,United Kingdom,Home & Kitchen,3243.0
+2025-11,France,Home & Kitchen,2432.25
+2025-11,Spain,Home & Kitchen,1945.8
+2025-11,Italy,Home & Kitchen,1945.8
+2025-11,Netherlands,Home & Kitchen,1621.5
+2025-11,Poland,Home & Kitchen,1459.35
+2025-11,Germany,Sports,2858.9
+2025-11,United Kingdom,Sports,2599.0
+2025-11,France,Sports,1949.25
+2025-11,Spain,Sports,1559.4
+2025-11,Italy,Sports,1559.4
+2025-11,Netherlands,Sports,1299.5
+2025-11,Poland,Sports,1169.55
+2025-11,Germany,Office,4655.2
+2025-11,United Kingdom,Office,4232.0
+2025-11,France,Office,3174.0
+2025-11,Spain,Office,2539.2
+2025-11,Italy,Office,2539.2
+2025-11,Netherlands,Office,2116.0
+2025-11,Poland,Office,1904.4
+2025-11,Germany,Electronics,4376.9
+2025-11,United Kingdom,Electronics,3979.0
+2025-11,France,Electronics,2984.25
+2025-11,Spain,Electronics,2387.4
+2025-11,Italy,Electronics,2387.4
+2025-11,Netherlands,Electronics,1989.5
+2025-11,Poland,Electronics,1790.55
+2025-12,Germany,Home & Kitchen,2580.6
+2025-12,United Kingdom,Home & Kitchen,2346.0
+2025-12,France,Home & Kitchen,1759.5
+2025-12,Spain,Home & Kitchen,1407.6
+2025-12,Italy,Home & Kitchen,1407.6
+2025-12,Netherlands,Home & Kitchen,1173.0
+2025-12,Poland,Home & Kitchen,1055.7
+2025-12,Germany,Sports,4225.1
+2025-12,United Kingdom,Sports,3841.0
+2025-12,France,Sports,2880.75
+2025-12,Spain,Sports,2304.6
+2025-12,Italy,Sports,2304.6
+2025-12,Netherlands,Sports,1920.5
+2025-12,Poland,Sports,1728.45
+2025-12,Germany,Office,2985.4
+2025-12,United Kingdom,Office,2714.0
+2025-12,France,Office,2035.5
+2025-12,Spain,Office,1628.4
+2025-12,Italy,Office,1628.4
+2025-12,Netherlands,Office,1357.0
+2025-12,Poland,Office,1221.3
+2025-12,Germany,Electronics,3061.3
+2025-12,United Kingdom,Electronics,2783.0
+2025-12,France,Electronics,2087.25
+2025-12,Spain,Electronics,1669.8
+2025-12,Italy,Electronics,1669.8
+2025-12,Netherlands,Electronics,1391.5
+2025-12,Poland,Electronics,1252.35

@@ -1,0 +1,19 @@
+No Orders:=DISTINCTCOUNT(Fact_Order[OrderID])
+
+Total Revenue:=sum(Fact_OrderLine[LineRevenue])
+
+Total Cost:=sum(Fact_OrderLine[LineCost])
+
+Total Margin:=sum(Fact_OrderLine[LineMargin])
+
+Sold Quantity:=sum(Fact_OrderLine[Quantity])
+
+No Products:=DISTINCTCOUNT(Fact_OrderLine[ProductID])
+
+Number of Orders:=DISTINCTCOUNT(Fact_OrderLine[OrderID])
+
+Avg Number of Products per Order:=DIVIDE([Sold Quantity],[Number of Orders],0)
+
+Avg Revenue per Order:=DIVIDE([Total Revenue],[Number of Orders],0)
+
+NO returen Products:=sum([ReturnQty])

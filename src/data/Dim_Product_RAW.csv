@@ -1,0 +1,121 @@
+ProductID,ProductName,Category,Subcategory,SupplierID,StandardCost,ListPrice,CatPath
+1,Product 1,Home & Kitchen,Cleaning,11,227.85,446.72,Home & Kitchen|Cleaning
+2,Product 2,Sports,Outdoor,7,440.54,739.63,Sports|Outdoor
+3,Product 3,Sports,Fitness,3,97.83,129.6,Sports|Fitness
+4,Product 4,Office,Stationery,12,39.56,74.88,Office|Stationery
+5,Product 5,Sports,Cycling,2,362.66,640.62,Sports|Cycling
+6,Product 6,Office,Stationery,13,17.25,"34,07",Office|Stationery
+7,Product 7,Electronics,Cameras,10,500.3,"685,35",Electronics|Cameras
+8,Product 8,Sports,Outdoor,3,113.19,152.44,Sports|Outdoor
+9,Product 9,Electronics,Phones,10,186.02,301.32,Electronics|Phones
+10,Product 10,Electronics,Phones,4,262.01,375.46,Electronics|Phones
+11,Product 11,Office,Printers,15,369.05,484.04,Office|Printers
+12,Product 12,Sports,Outdoor,12,178.83,267.01,Sports|Outdoor
+13,Product 13,Sports,Outdoor,9,276.36,505.22,Sports|Outdoor
+14,Product 14,Electronics,Cameras,6,123.81,199.51,Electronics|Cameras
+15,Product 15,Home & Kitchen,Appliances,15,357.49,442.27,Home & Kitchen|Appliances
+16,Product 16,Office,Printers,18,366.49,489.78,Office|Printers
+17,Product 17,Home & Kitchen,Storage,2,43.71,85.63,Home & Kitchen|Storage
+18,Product 18,Home & Kitchen,Cookware,11,579.55,"1.070,26",Home & Kitchen|Cookware
+19,Product 19,Office,Printers,3,186.25,238.05,Office|Printers
+20,Product 20,Home & Kitchen,Storage,7,412.12,639.66,Home & Kitchen|Storage
+21,Product 21,Office,Ink & Toner,15,77.61,123.88,Office|Ink & Toner
+22,Product 22,Home & Kitchen,Storage,5,25.46,49.07,Home & Kitchen|Storage
+23,Product 23,Home & Kitchen,Storage,19,158.97,275.02,Home & Kitchen|Storage
+24,Product 24,Office,Ink & Toner,12,190.47,307.81,Office|Ink & Toner
+25,,Home & Kitchen,Appliances,17,330.29,445.19,Home & Kitchen|Appliances
+26,Product 26,Office,Stationery,2,581.9,"1.059,11",Office|Stationery
+27,Product 27,Electronics,Phones,6,564.0,1080.55,Electronics|Phones
+28,Product 28,Office,Stationery,13,360.75,698.95,Office|Stationery
+29,Product 29,Office,Ink & Toner,17,57.65,78.22,Office|Ink & Toner
+30,Product 30,Sports,Fitness,4,31.91,46.6,Sports|Fitness
+31,Product 31,Sports,Cycling,4,236.26,334.8,Sports|Cycling
+32,Product 32,Sports,Team Sports,6,498.1,739.88,Sports|Team Sports
+33,Product 33,Office,Stationery,9,172.16,281.34,Office|Stationery
+34,Product 34,Home & Kitchen,Cookware,10,88.85,163.64,Home & Kitchen|Cookware
+35,Product 35,Home & Kitchen,Appliances,12,49.36,98.2,Home & Kitchen|Appliances
+36,Product 36,Home & Kitchen,Cookware,20,464.49,631.23,Home & Kitchen|Cookware
+37,Product 37,Sports,Team Sports,1,8.29,15.36,Sports|Team Sports
+38,Product 38,Electronics,Accessories,10,425.58,758.9,Electronics|Accessories
+39,Product 39,Home & Kitchen,Cookware,8,463.91,584.17,Home & Kitchen|Cookware
+40,Product 40,Electronics,Laptops,16,218.29,282.18,Electronics|Laptops
+41,Product 41,Electronics,Cameras,5,518.55,880.83,Electronics|Cameras
+42,,Home & Kitchen,Cleaning,18,201.88,252.52,Home & Kitchen|Cleaning
+43,Product 43,Home & Kitchen,Storage,17,190.03,277.47,Home & Kitchen|Storage
+44,Product 44,Office,Furniture,18,439.12,750.92,Office|Furniture
+45,Product 45,Home & Kitchen,Storage,13,532.89,840.78,Home & Kitchen|Storage
+46,Product 46,Sports,Team Sports,17,76.16,134.85,Sports|Team Sports
+47,Product 47,Office,Stationery,8,457.67,754.71,Office|Stationery
+48,Product 48,Home & Kitchen,Cookware,11,463.73,739.67,Home & Kitchen|Cookware
+49,Product 49,Electronics,Cameras,18,316.03,487.33,Electronics|Cameras
+50,Product 50,Home & Kitchen,Appliances,1,20.12,25.88,Home & Kitchen|Appliances
+51,Product 51,Electronics,Laptops,8,23.7,40.51,Electronics|Laptops
+52,Product 52,Electronics,Laptops,11,192.04,308.58,Electronics|Laptops
+53,Product 53,Electronics,Cameras,8,545.0,762.69,Electronics|Cameras
+54,Product 54,Sports,Team Sports,7,249.18,449.63,Sports|Team Sports
+55,Product 55,Home & Kitchen,Cleaning,8,141.13,178.05,Home & Kitchen|Cleaning
+56,,Office,Ink & Toner,7,177.4,235.76,Office|Ink & Toner
+57,Product 57,Electronics,Laptops,14,558.17,1030.66,Electronics|Laptops
+58,Product 58,Sports,Team Sports,14,381.88,724.49,Sports|Team Sports
+59,Product 59,Office,Stationery,4,483.18,651.93,Office|Stationery
+60,Product 60,Electronics,Audio,11,536.07,"874,58",Electronics|Audio
+61,Product 61,Electronics,Phones,7,485.43,930.51,Electronics|Phones
+62,Product 62,Home & Kitchen,Cleaning,5,194.21,250.15,Home & Kitchen|Cleaning
+63,Product 63,Office,Furniture,9,140.62,216.79,Office|Furniture
+64,Product 64,Office,Furniture,3,491.72,928.65,Office|Furniture
+65,Product 65,Office,Stationery,2,9.14,14.7,Office|Stationery
+66,Product 66,Electronics,Laptops,8,253.36,349.05,Electronics|Laptops
+67,Product 67,Home & Kitchen,Cleaning,16,76.32,112.2,Home & Kitchen|Cleaning
+68,Product 68,Office,Furniture,13,566.03,825.59,Office|Furniture
+69,Product 69,Electronics,Phones,13,313.68,552.83,Electronics|Phones
+70,Product 70,Electronics,Audio,9,221.36,437.72,Electronics|Audio
+71,Product 71,Office,Printers,14,577.66,809.55,Office|Printers
+72,Product 72,Office,Furniture,7,300.86,433.45,Office|Furniture
+73,Product 73,Sports,Outdoor,2,174.48,214.52,Sports|Outdoor
+74,Product 74,Electronics,Accessories,2,367.69,589.09,Electronics|Accessories
+75,,Electronics,Cameras,16,35.63,50.7,Electronics|Cameras
+76,Product 76,Home & Kitchen,Cookware,17,545.42,759.03,Home & Kitchen|Cookware
+77,Product 77,Electronics,Phones,3,91.21,145.17,Electronics|Phones
+78,Product 78,Electronics,Phones,13,591.46,824.28,Electronics|Phones
+79,Product 79,Electronics,Cameras,8,404.92,732.62,Electronics|Cameras
+80,Product 80,Electronics,Cameras,3,146.39,260.95,Electronics|Cameras
+81,Product 81,Office,Printers,9,223.83,381.82,Office|Printers
+82,Product 82,Home & Kitchen,Storage,8,381.95,622.05,Home & Kitchen|Storage
+83,Product 83,Sports,Team Sports,5,58.72,109.7,Sports|Team Sports
+84,Product 84,Sports,Team Sports,11,195.86,264.26,Sports|Team Sports
+85,Product 85,Electronics,Laptops,15,29.26,48.94,Electronics|Laptops
+86,Product 86,Electronics,Laptops,18,408.15,495.2,Electronics|Laptops
+87,Product 87,Home & Kitchen,Storage,5,309.7,427.76,Home & Kitchen|Storage
+88,Product 88,Sports,Fitness,8,388.88,520.9,Sports|Fitness
+89,Product 89,Sports,Cycling,6,416.11,628.07,Sports|Cycling
+90,Product 90,Office,Printers,20,562.35,736.69,Office|Printers
+91,Product 91,Electronics,Cameras,10,207.93,268.39,Electronics|Cameras
+92,Product 92,Electronics,Phones,9,555.19,1055.9,Electronics|Phones
+93,Product 93,Electronics,Laptops,18,158.48,273.85,Electronics|Laptops
+94,Product 94,Home & Kitchen,Storage,10,491.25,807.69,Home & Kitchen|Storage
+95,Product 95,Home & Kitchen,Storage,7,320.14,446.11,Home & Kitchen|Storage
+96,Product 96,Sports,Team Sports,9,60.4,"115,82",Sports|Team Sports
+97,Product 97,Electronics,Laptops,14,540.75,922.78,Electronics|Laptops
+98,Product 98,Sports,Fitness,1,206.72,305.81,Sports|Fitness
+99,Product 99,Sports,Outdoor,9,436.94,837.91,Sports|Outdoor
+100,Product 100,Home & Kitchen,Cleaning,18,532.82,971.81,Home & Kitchen|Cleaning
+101,Product 101,Office,Stationery,4,387.01,490.46,Office|Stationery
+102,Product 102,Electronics,Phones,18,101.17,"194,12",Electronics|Phones
+103,Product 103,Electronics,Accessories,19,365.83,441.69,Electronics|Accessories
+104,Product 104,Home & Kitchen,Cleaning,5,65.38,"113,15",Home & Kitchen|Cleaning
+105,Product 105,Electronics,Accessories,12,8.01,10.64,Electronics|Accessories
+106,Product 106,Electronics,Accessories,7,331.5,581.29,Electronics|Accessories
+107,,Home & Kitchen,Cookware,12,392.92,542.0,Home & Kitchen|Cookware
+108,Product 108,Office,Furniture,8,428.75,595.88,Office|Furniture
+109,Product 109,Home & Kitchen,Appliances,14,198.61,356.94,Home & Kitchen|Appliances
+110,Product 110,Electronics,Phones,11,391.53,735.83,Electronics|Phones
+111,Product 111,Office,Furniture,9,396.28,655.7,Office|Furniture
+112,Product 112,Home & Kitchen,Cookware,13,60.74,"90,76",Home & Kitchen|Cookware
+113,Product 113,Electronics,Audio,8,162.8,"227,13",Electronics|Audio
+114,Product 114,Home & Kitchen,Cleaning,12,583.94,884.36,Home & Kitchen|Cleaning
+115,Product 115,Sports,Outdoor,8,535.77,913.44,Sports|Outdoor
+116,Product 116,Electronics,Phones,13,477.91,765.66,Electronics|Phones
+117,Product 117,Sports,Cycling,3,348.26,555.13,Sports|Cycling
+118,Product 118,Sports,Cycling,17,121.17,215.44,Sports|Cycling
+119,Product 119,Office,Printers,1,172.06,209.82,Office|Printers
+120,Product 120,Electronics,Accessories,6,389.06,522.0,Electronics|Accessories
